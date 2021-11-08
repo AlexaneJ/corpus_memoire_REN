@@ -8,7 +8,7 @@ Le corpus a été élaboré par Karën Fort et Yoann Dupont et est composé de s
 - wikinews : CC-BY 2.5
 - APIL : LGPL-LR
 
-Et il indique enfin les contributeurs, les liens de téléchargement et le style corpus que nous avons voulu équilibré. 
+Et il indique enfin les contributeurs, les liens de téléchargement et le style corpus, que nous avons voulu corpus équilibré. 
 
 La langue du corpus est le français. 
 
